@@ -1,117 +1,196 @@
-## Hi Everyone <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<!-- Banner -->
+<div align="center">
 
-I'm Md Omar Faruk, a Software Developer from <img src="https://image.flaticon.com/icons/svg/323/323299.svg" width="13"/> Bangladesh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Md%20Omar%20Faruk&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Laravel%20%7C%20Vue%20%7C%20Node&descAlignY=58&descSize=18" alt="banner" width="100%"/>
 
-:coffee: &emsp;Connect with me!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Md+Omar+Faruk;Software+Developer+from+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Building+Govt+%26+Enterprise+Web+Systems;I+love+programming+and+sharing+knowledge" alt="Typing SVG" />
+</a>
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarfaruk9345/) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/MdOmarFaruk45) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarfaruk9345/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_omar.faruk/?hl=en) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Farukomarfci) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomarfci@gmail.com)
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=farukcoder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/farukcoder?label=Followers&style=for-the-badge&logo=github&color=181717" alt="followers"/>
+<img src="https://img.shields.io/github/stars/farukcoder?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="stars"/>
 
-:hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `fmt.Println("hello world")`, `console.log("hello world")` <br/>
-:e-mail: &emsp;How to reach me: akomarfci@gmail.com<br/>
-👨‍💻 &emsp;It's My Portfolio: https://mof-portfolio.vercel.app<br/>
-📄 &emsp;Know about my experiences: https://farukcoder.github.io/portfolio_master/cv/Md_Omar_Faruk_CV.pdf<br/>
-<!-- 
-#### Things I code with
+</div>
 
-[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) -->
+---
 
+## 👋 About Me
 
-### My Projects
+- 👨‍💻 Software Developer based in **Bangladesh** 🇧🇩
+- 🏛️ Built systems for **Bangladesh Post Office**, **Local Government (Union / Municipality)** and **715+ schools**
+- 🌱 Currently exploring: **Vue / React / Next.js, Node.js, GraphQL**
+- ♥️ I enjoy programming and sharing knowledge
+- 💬 Ask me about: **Laravel, PHP, REST API, Vue.js, MySQL, Mobile App Backend**
+- ⚡ Fun fact: my most used lines of code are
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Description</b></td>
-      <td><b>Technology</b></td>
-      <td><b>Responses</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://corporate.ekdak.com/" target="_blank">Corporate Booking System</a></td>
-      <td>Corporate Booking System</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (Third Party API)</td>
-      <td>Bangladesh Post Office</td>
-    </tr>
-    <tr>
-      <td><a href="https://brta2.bpodms.gov.bd/" target="_blank">Driving License Booking system</a></td>
-      <td>Driving License Booking system</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (Third Party API)</td>
-      <td>Bangladesh Post Office</td>
-    </tr>
-    <tr>
-      <td><a href="https://dakbazar.bpodms.gov.bd/" target="_blank">Dak bazar</a></td>
-      <td>Dak bazar</td>
-      <td>Bootstrap, jQuery, Ajax, Vue JS, PHP, Laravel, (Third Party API)</td>
-      <td>Bangladesh Post Office</td>
-    </tr>
-    <tr>
-      <td><a href="https://smartup.comillalg.gov.bd/" target="_blank">Smart Union</a></td>
-      <td>Union Managment Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
-      <td>44 Organization(Comilla, Feni, Gazipur, Dhaka, Narsingdi Districts)</td>
-    </tr>
-    <tr>
-      <td><a href="https://hisab365.com/" target="_blank">POS Hisab365</a></td>
-      <td>Point of Sale Management Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel</td>
-      <td>5+ Organization</td>
-    </tr>
-    <tr>
-      <td><a href="https://hathazaripourashava.gov.bd/" target="_blank">Smart Municipility</a></td>
-      <td>Municipility Managment Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application), Porichoy API Implement</td>
-      <td>10+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://apps.digiins.net/" target="_blank">Smart School Managment</a></td>
-      <td>School Managment Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Codeigniter (API for mobile application)</td>
-      <td>715+ School</td>
-    </tr>
-    <tr>
-      <td><a href="https://amarbrick.com/" target="_blank">Brickfield Managment</a></td>
-      <td>Brickfield Managment Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
-      <td>1+ Brickfield</td>
-    </tr>
-    <tr>
-      <td><a href="http://vehicleapps.comillalg.gov.bd/" target="_blank">Vehical Apps</a></td>
-      <td>Vehicla Managment Software</td>
-      <td>Bootstrap, jQuery, Ajax, PHP, Laravel (API for mobile application)</td>
-      <td>1+ Organization</td>
-    </tr>
-    <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US" target="_blank">Mayor App</a></td>
-      <td>Mayor Mobile Application</td>
-      <td>Laravel Lumen (API for mobile application)</td>
-      <td>4+ clients</td>
-    </tr>
+```go
+fmt.Println("hello world")
+```
+```js
+console.log("hello world");
+```
 
-  </tbody>
-</table>
+---
 
+## 🔗 Connect With Me
 
+<div align="center">
 
-#### Profile Visits 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mof-portfolio.vercel.app)
+[![CV](https://img.shields.io/badge/Download%20CV-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://farukcoder.github.io/portfolio_master/cv/Md_Omar_Faruk_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarfaruk9345/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarfaruk9345/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/MdOmarFaruk45)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_omar.faruk/?hl=en)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Farukomarfci)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomarfci@gmail.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Farukcoder.Farukcoder)
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,go,mysql,mongodb,graphql" alt="backend"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,bootstrap,vue,react,nextjs,tailwind" alt="frontend"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel" alt="tools"/>
+
+</div>
+
+> 💡 Also worked with: **Laravel Lumen, CodeIgniter, Ajax, REST API (mobile app backend), Third-Party API integration, Porichoy API**
+
+---
+
+## 🚀 Featured Projects
+
+| # | Project | Description | Tech Stack | Impact |
+|:-:|---------|-------------|------------|--------|
+| 1 | [🏢 Corporate Booking System](https://corporate.ekdak.com/) | Corporate booking platform | Bootstrap, jQuery, Ajax, PHP, Laravel, Third-Party API | Bangladesh Post Office |
+| 2 | [🚗 Driving License Booking](https://brta2.bpodms.gov.bd/) | Driving license booking system | Bootstrap, jQuery, Ajax, PHP, Laravel, Third-Party API | Bangladesh Post Office |
+| 3 | [🛍️ Dak Bazar](https://dakbazar.bpodms.gov.bd/) | E-commerce / marketplace | Bootstrap, jQuery, Ajax, Vue JS, PHP, Laravel, Third-Party API | Bangladesh Post Office |
+| 4 | [🏛️ Smart Union](https://smartup.comillalg.gov.bd/) | Union management software | Bootstrap, jQuery, Ajax, PHP, Laravel, Mobile API | **44 organizations** (Comilla, Feni, Gazipur, Dhaka, Narsingdi) |
+| 5 | [🧾 POS Hisab365](https://hisab365.com/) | Point of Sale management software | Bootstrap, jQuery, Ajax, PHP, Laravel | 5+ organizations |
+| 6 | [🏙️ Smart Municipality](https://hathazaripourashava.gov.bd/) | Municipality management software | Bootstrap, jQuery, Ajax, PHP, Laravel, Mobile API, Porichoy API | 10+ clients |
+| 7 | [🎓 Smart School Management](https://apps.digiins.net/) | School management software | Bootstrap, jQuery, Ajax, PHP, CodeIgniter, Mobile API | **715+ schools** |
+| 8 | [🧱 Brickfield Management](https://amarbrick.com/) | Brickfield management software | Bootstrap, jQuery, Ajax, PHP, Laravel, Mobile API | 1+ brickfield |
+| 9 | [🚙 Vehicle Apps](http://vehicleapps.comillalg.gov.bd/) | Vehicle management software | Bootstrap, jQuery, Ajax, PHP, Laravel, Mobile API | 1+ organization |
+| 10 | [📱 Mayor App](https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US) | Mayor mobile application (backend) | Laravel Lumen, REST API | 4+ clients |
+
+<div align="center">
+
+### 📊 Impact at a Glance
+
+![Projects](https://img.shields.io/badge/Projects-10+-blue?style=for-the-badge)
+![Schools](https://img.shields.io/badge/Schools%20Served-715+-green?style=for-the-badge)
+![Union](https://img.shields.io/badge/Union%20Orgs-44-orange?style=for-the-badge)
+![Gov](https://img.shields.io/badge/Govt%20Projects-Bangladesh%20Post%20Office-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=farukcoder&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcoder&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=farukcoder&theme=tokyonight&hide_border=true" alt="streak"/>
+
+</div>
 
 <details>
-<summary>
-  You wanna know more about me?
-</summary>
+<summary><b>📅 Contribution activity graph (click to expand)</b></summary>
 
-<br >
-  
+<br/>
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers
-
-#### Github Stats
-
-![Farukcoder's github stats](https://github-readme-stats.vercel.app/api?username=farukcoder&count_private=true&theme=tokyonight&hide=contribs,prs)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=farukcoder&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
 
 </details>
+
+<details>
+<summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farukcoder&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
+</details>
+
+---
+
+## 📚 Learning Resources I Recommend
+
+<details>
+<summary><b>Click to see my favorite free resources</b></summary>
+
+<br/>
+
+| Topic | Resource |
+|-------|----------|
+| Laravel | [Laravel Docs](https://laravel.com/docs) · [Laracasts](https://laracasts.com) |
+| PHP | [PHP The Right Way](https://phptherightway.com) |
+| JavaScript | [javascript.info](https://javascript.info) · [MDN Web Docs](https://developer.mozilla.org) |
+| Vue.js | [Vue Docs](https://vuejs.org/guide/introduction.html) |
+| React / Next.js | [React Docs](https://react.dev) · [Next.js Learn](https://nextjs.org/learn) |
+| Node.js | [Node.js Docs](https://nodejs.org/en/learn) |
+| Go | [A Tour of Go](https://go.dev/tour/) |
+| Git & GitHub | [Pro Git Book](https://git-scm.com/book/en/v2) · [GitHub Skills](https://skills.github.com) |
+| Roadmaps | [roadmap.sh](https://roadmap.sh) |
+| Practice | [freeCodeCamp](https://www.freecodecamp.org) · [Exercism](https://exercism.org) |
+
+</details>
+
+<details>
+<summary><b>🎬 Subscribe to my YouTube channel</b></summary>
+
+<br/>
+
+I put together tutorials, courses and posts to help other developers.
+👉 [youtube.com/c/MdOmarFaruk45](https://www.youtube.com/c/MdOmarFaruk45)
+
+</details>
+
+---
+
+## 💬 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+</div>
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to **freelance projects**, **collaboration** and **open-source contributions**.
+
+📧 **Email:** [akomarfci@gmail.com](mailto:akomarfci@gmail.com)
+🌐 **Portfolio:** [mof-portfolio.vercel.app](https://mof-portfolio.vercel.app)
+📄 **CV:** [Download here](https://farukcoder.github.io/portfolio_master/cv/Md_Omar_Faruk_CV.pdf)
+
+<div align="center">
+
+⭐ *If you like my work, give a star to my repositories!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
