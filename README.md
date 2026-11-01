@@ -196,12 +196,7 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farukcoder&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farukcoder&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=Farukcoder&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Farukcoder&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="Trophies"/>
 
 </div>
 
