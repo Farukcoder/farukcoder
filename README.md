@@ -1,10 +1,10 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:0E7C86&height=190&section=header&text=Md%20Omar%20Faruk&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full%20Stack%20%7C%20Agentic%20Coding%20%26%20LLM%20Integration&descSize=16&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:0E7C86&height=190&section=header&text=Md%20Omar%20Faruk&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Servers%20%7C%20Agentic%20Coding%20%26%20LLM%20Integration&descSize=16&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E7C86&center=true&vCenter=true&width=720&lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Agentic+Coding+%C2%B7+LLM+%26+AI+API+Integration;Government+%26+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E7C86&center=true&vCenter=true&width=720&lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+%26+AI+API+Integration;Government+%26+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,48 +25,18 @@
 
 I'm **Md Omar Faruk**, a Software Engineer from **Dhaka, Bangladesh** with **5+ years** of experience building scalable, secure web applications and backend systems, from government platforms to e-commerce and business automation.
 
-I work across **PHP, Go and Python**, design **microservice-based** systems with **OAuth 2.0 / SSO / JWT**, and use **agentic coding workflows** and **LLM / AI API integration** to ship faster without giving up code quality.
-
-```go
-package main
-
-import "fmt"
-
-type Engineer struct {
-	Name       string
-	Location   string
-	Experience string
-	Languages  []string
-	Focus      []string
-	Currently  string
-}
-
-func main() {
-	omar := Engineer{
-		Name:       "Md Omar Faruk",
-		Location:   "Dhaka, Bangladesh 🇧🇩",
-		Experience: "5+ years",
-		Languages:  []string{"PHP", "Go", "Python", "JavaScript", "SQL"},
-		Focus: []string{
-			"Backend Architecture", "Microservices", "REST APIs",
-			"OAuth 2.0 / SSO / JWT", "Agentic Coding", "LLM Integration",
-		},
-		Currently: "Software Engineer @ SOFTANIS",
-	}
-	fmt.Printf("%+v\n", omar)
-}
-```
+I work across **PHP, Go and Python**, design **microservice-based** systems with **OAuth 2.0 / SSO / JWT**, and I genuinely enjoy the **server side**: deploying, configuring and keeping production systems running on Linux. I also use **agentic coding workflows** and **LLM / AI API integration** to ship faster without giving up code quality.
 
 <table>
 <tr>
 <td>
 
 🔭 **Working on:** Laravel, Zoho & automation solutions @ SOFTANIS
+🖥️ **Love working with:** Linux servers, deployment and DevOps
 🤖 **Exploring:** Agentic coding, LLM / AI API integration
-🌱 **Learning:** System design, DevOps, AI-driven workflows
-💬 **Ask me about:** Laravel, Go, OAuth/SSO, Microservices, Zoho
+🌱 **Learning:** System design, infrastructure and AI-driven workflows
+💬 **Ask me about:** Laravel, Go, OAuth/SSO, Microservices, Docker, server setup, Zoho
 📫 **Reach me:** akomarfci@gmail.com
-⚡ **Fun fact:** Most used line of code → `fmt.Println("hello world")`
 
 </td>
 </tr>
@@ -170,6 +140,22 @@ I treat AI as an engineering teammate, not a shortcut. Architecture, logic desig
 
 ---
 
+## 🖥️ Servers & Infrastructure
+
+Writing the code is half the job. I like owning how it gets deployed and how it runs in production.
+
+| Area | What I work with |
+|---|---|
+| 🐧 **Linux servers** | Ubuntu and CentOS, deploying and managing live projects over SSH |
+| 🐳 **Containers** | Docker and Docker Compose, writing Dockerfiles with the infrastructure team for smooth deployments |
+| 🌐 **Web servers** | Nginx, cPanel / WHM |
+| ☁️ **Hosting** | DigitalOcean droplets and shared / VPS hosting |
+| 📨 **Queues & caching** | RabbitMQ, Apache Kafka, Redis |
+| 🔁 **CI/CD & releases** | Git workflows (GitHub, Bitbucket) and repeatable deployment processes |
+| 🔍 **Troubleshooting** | Log file analysis to find and fix live production issues |
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack | Impact |
@@ -201,7 +187,7 @@ I treat AI as an engineering teammate, not a shortcut. Architecture, logic desig
         │   Laravel · Go (Fiber) · Docker · RabbitMQ · Microservices · OAuth 2.0 · SSO
         │
 2021 ──●── Innovation IT ···· Software Developer (Jul 2021 – Mar 2024)
-            Laravel · CodeIgniter · REST APIs · CentOS deployment · client-facing delivery
+            Laravel · CodeIgniter · REST APIs · CentOS server deployment · live issue analysis
 ```
 
 ---
