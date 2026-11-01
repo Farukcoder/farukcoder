@@ -1,10 +1,10 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D2137,100:0E7C86&amp;height=190&amp;section=header&amp;text=Md%20Omar%20Faruk&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Servers%20%7C%20Agentic%20Coding%20%26%20LLM%20Integration&amp;descSize=16&amp;descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D2137,100:0E7C86&amp;height=190&amp;section=header&amp;text=Md%20Omar%20Faruk&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20and%20Servers%20%7C%20Agentic%20Coding%20and%20LLM%20Integration&amp;descSize=16&amp;descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0E7C86&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+%26+AI+API+Integration;Government+%26+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0E7C86&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+and+AI+API+Integration;Government+and+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
 </a>
 
 <br/>
