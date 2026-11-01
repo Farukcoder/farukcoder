@@ -59,7 +59,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 </details>
 
 <details open>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
+<summary><b>⚙️ Backend &amp; Frameworks</b></summary>
 <br/>
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -88,7 +88,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 </details>
 
 <details open>
-<summary><b>🗄️ Databases, Messaging & DevOps</b></summary>
+<summary><b>🗄️ Databases, Messaging &amp; DevOps</b></summary>
 <br/>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -109,7 +109,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 </details>
 
 <details open>
-<summary><b>🤖 AI, Agentic Coding & Automation</b></summary>
+<summary><b>🤖 AI, Agentic Coding &amp; Automation</b></summary>
 <br/>
 
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
