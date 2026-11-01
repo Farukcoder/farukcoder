@@ -3,16 +3,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D2137,100:0E7C86&amp;height=190&amp;section=header&amp;text=Md%20Omar%20Faruk&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20and%20Servers%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20and%20LLM%20Integration&amp;descSize=16&amp;descAlignY=60" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0E7C86&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+and+AI+API+Integration;Government+and+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white)](https://mof-portfolio.vercel.app)
-[![CV](https://img.shields.io/badge/Download%20CV-0D2137?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1x8hmxD4vq33jzLOj6xcu2sC3ZEwbIRus/view?usp=drive_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarfaruk9345/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomarfci@gmail.com)
+<a href="https://mof-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+<a href="https://drive.google.com/file/d/1x8hmxD4vq33jzLOj6xcu2sC3ZEwbIRus/view?usp=drive_link" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Download%20CV-0D2137?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="CV"/></a>
+<a href="https://www.linkedin.com/in/omarfaruk9345/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:akomarfci@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/></a>
+
+<br/>
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Farukcoder.Farukcoder)
 ![Followers](https://img.shields.io/github/followers/Farukcoder?style=social)
@@ -36,7 +38,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 🤖 **Exploring:** Agentic coding, LLM / AI API integration
 🌱 **Learning:** System design, infrastructure and AI-driven workflows
 💬 **Ask me about:** Laravel, Go, OAuth/SSO, Microservices, Docker, server setup, Zoho
-📫 **Reach me:** akomarfci@gmail.com
+📫 **Reach me:** <a href="mailto:akomarfci@gmail.com" target="_blank" rel="noopener noreferrer">akomarfci@gmail.com</a>
 
 </td>
 </tr>
@@ -160,20 +162,20 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 | Project | What it does | Stack | Impact |
 |---|---|---|---|
-| [**Corporate Booking System**](https://corporate.ekdak.com/) | Corporate booking platform with centralized login (OAuth 2.0 / SSO) | PHP, Laravel, jQuery, Ajax, Bootstrap, 3rd-party API | Bangladesh Post Office |
-| [**Driving License Booking**](https://brta2.bpodms.gov.bd/) | Driving license appointment booking | PHP, Laravel, jQuery, Ajax, Bootstrap, SSO | Bangladesh Post Office |
-| [**Dak Bazar**](https://dakbazar.bpodms.gov.bd/) | Dak ticket selling and purchasing platform | PHP, Laravel, Vue.js, jQuery, Ajax, 3rd-party API | Bangladesh Post Office |
+| <a href="https://corporate.ekdak.com/" target="_blank" rel="noopener noreferrer"><b>Corporate Booking System</b></a> | Corporate booking platform with centralized login (OAuth 2.0 / SSO) | PHP, Laravel, jQuery, Ajax, Bootstrap, 3rd-party API | Bangladesh Post Office |
+| <a href="https://brta2.bpodms.gov.bd/" target="_blank" rel="noopener noreferrer"><b>Driving License Booking</b></a> | Driving license appointment booking | PHP, Laravel, jQuery, Ajax, Bootstrap, SSO | Bangladesh Post Office |
+| <a href="https://dakbazar.bpodms.gov.bd/" target="_blank" rel="noopener noreferrer"><b>Dak Bazar</b></a> | Dak ticket selling and purchasing platform | PHP, Laravel, Vue.js, jQuery, Ajax, 3rd-party API | Bangladesh Post Office |
 | **Passport Booking System** | OAuth 2.0 IdP, JWT APIs and OCR-based passport data extraction | Go (Fiber), PostgreSQL, OAuth 2.0, JWT, OCR | Bangladesh Post Office |
-| [**Smart Union**](https://smartup.comillalg.gov.bd/) | Union management: accounts, certificates, reports, mobile API | PHP, Laravel, Ajax, REST API | **44 organizations** (Comilla, Feni, Gazipur, Dhaka, Narsingdi) |
-| [**Smart Municipality**](https://hathazaripourashava.gov.bd/) | Municipality management with Porichoy API integration | PHP, Laravel, Ajax, REST API | **10+ clients** |
-| [**Smart School Management**](https://apps.digiins.net/) | School admin, attendance, exams, results, certificates, mobile API | PHP, CodeIgniter, jQuery, Ajax | **715+ schools** |
-| [**POS Hisab365**](https://hisab365.com/) | Point of Sale management software | PHP, Laravel, jQuery, Ajax | **5+ organizations** |
-| [**Brickfield Management**](https://amarbrick.com/) | Brickfield management with mobile API | PHP, Laravel, Ajax | 1+ brickfield |
-| [**Vehicle Apps**](http://vehicleapps.comillalg.gov.bd/) | Vehicle, driver and fuel management with reports | PHP, Laravel, Ajax | 1+ organization |
-| [**Mayor App**](https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&amp;hl=en&amp;gl=US) | Mayor mobile application backend | Laravel Lumen (API) | 4+ clients |
+| <a href="https://smartup.comillalg.gov.bd/" target="_blank" rel="noopener noreferrer"><b>Smart Union</b></a> | Union management: accounts, certificates, reports, mobile API | PHP, Laravel, Ajax, REST API | **44 organizations** (Comilla, Feni, Gazipur, Dhaka, Narsingdi) |
+| <a href="https://hathazaripourashava.gov.bd/" target="_blank" rel="noopener noreferrer"><b>Smart Municipality</b></a> | Municipality management with Porichoy API integration | PHP, Laravel, Ajax, REST API | **10+ clients** |
+| <a href="https://apps.digiins.net/" target="_blank" rel="noopener noreferrer"><b>Smart School Management</b></a> | School admin, attendance, exams, results, certificates, mobile API | PHP, CodeIgniter, jQuery, Ajax | **715+ schools** |
+| <a href="https://hisab365.com/" target="_blank" rel="noopener noreferrer"><b>POS Hisab365</b></a> | Point of Sale management software | PHP, Laravel, jQuery, Ajax | **5+ organizations** |
+| <a href="https://amarbrick.com/" target="_blank" rel="noopener noreferrer"><b>Brickfield Management</b></a> | Brickfield management with mobile API | PHP, Laravel, Ajax | 1+ brickfield |
+| <a href="http://vehicleapps.comillalg.gov.bd/" target="_blank" rel="noopener noreferrer"><b>Vehicle Apps</b></a> | Vehicle, driver and fuel management with reports | PHP, Laravel, Ajax | 1+ organization |
+| <a href="https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&amp;hl=en&amp;gl=US" target="_blank" rel="noopener noreferrer"><b>Mayor App</b></a> | Mayor mobile application backend | Laravel Lumen (API) | 4+ clients |
 | **E-Commerce Platform** | Full-stack store with admin panel, orders, inventory and RBAC | Laravel 13 REST API, Next.js, MySQL | AI-assisted development |
 | **BnBMe: Zoho CRM** | CRM customization for a luxury rental brand (Dubai, Riyadh, London) | Zoho CRM, Deluge, Forms, Sign, Writer | End-to-end digital workflows |
-| [**Catalyst Connect**](https://catalystconnect.com/) | Web app with Zoho CRM API integration | Laravel, MySQL, Bootstrap | Zoho data sync |
+| <a href="https://catalystconnect.com/" target="_blank" rel="noopener noreferrer"><b>Catalyst Connect</b></a> | Web app with Zoho CRM API integration | Laravel, MySQL, Bootstrap | Zoho data sync |
 
 ---
 
@@ -196,7 +198,9 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Farukcoder&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak"/>
+<a href="https://github.com/Farukcoder" target="_blank" rel="noopener noreferrer">
+  <img src="https://streak-stats.demolab.com?user=Farukcoder&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak"/>
+</a>
 
 </div>
 
@@ -213,15 +217,15 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&logo=vercel&logoColor=white)](https://mof-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarfaruk9345/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Farukcoder/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/12414324/md-omar-faruk)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/MdOmarFaruk45)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omarfaruk9345/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md_omar.faruk/?hl=en)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Farukomarfci)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akomarfci@gmail.com)
+<a href="https://mof-portfolio.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0E7C86?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/omarfaruk9345/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/Farukcoder/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode"/></a>
+<a href="https://stackoverflow.com/users/12414324/md-omar-faruk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&amp;logo=stackoverflow&amp;logoColor=white" alt="StackOverflow"/></a>
+<a href="https://www.youtube.com/c/MdOmarFaruk45" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube"/></a>
+<a href="https://www.facebook.com/omarfaruk9345/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook"/></a>
+<a href="https://www.instagram.com/md_omar.faruk/?hl=en" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/></a>
+<a href="https://twitter.com/Farukomarfci" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"/></a>
+<a href="mailto:akomarfci@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
 
 ### 💬 *Open to Senior Backend / Full Stack opportunities, Dhaka or Remote. Let's build something great together!*
 
