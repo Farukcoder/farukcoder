@@ -1,10 +1,10 @@
 <!-- ═══════════ HEADER ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D2137,100:0E7C86&height=190&section=header&text=Md%20Omar%20Faruk&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Servers%20%7C%20Agentic%20Coding%20%26%20LLM%20Integration&descSize=16&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D2137,100:0E7C86&amp;height=190&amp;section=header&amp;text=Md%20Omar%20Faruk&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Backend%20%26%20Servers%20%7C%20Agentic%20Coding%20%26%20LLM%20Integration&amp;descSize=16&amp;descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0E7C86&center=true&vCenter=true&width=720&lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+%26+AI+API+Integration;Government+%26+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=0E7C86&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=5%2B+Years+Building+Production+Software;PHP+%C2%B7+Laravel+%C2%B7+Go+%C2%B7+Python;Microservices+%C2%B7+OAuth+2.0+%C2%B7+SSO+%C2%B7+REST+APIs;Linux+Servers+%C2%B7+Docker+%C2%B7+Deployment;Agentic+Coding+%C2%B7+LLM+%26+AI+API+Integration;Government+%26+Enterprise+Systems+in+Bangladesh" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,7 +31,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 <tr>
 <td>
 
-🔭 **Working on:** Laravel, Zoho & automation solutions @ SOFTANIS
+🔭 **Working on:** Laravel, Zoho &amp; automation solutions @ SOFTANIS
 🖥️ **Love working with:** Linux servers, deployment and DevOps
 🤖 **Exploring:** Agentic coding, LLM / AI API integration
 🌱 **Learning:** System design, infrastructure and AI-driven workflows
@@ -126,7 +126,7 @@ I work across **PHP, Go and Python**, design **microservice-based** systems with
 
 ---
 
-## 🤖 Agentic Coding & LLM Integration
+## 🤖 Agentic Coding &amp; LLM Integration
 
 I treat AI as an engineering teammate, not a shortcut. Architecture, logic design and code review stay mine; AI handles the repetitive and exploratory work.
 
@@ -135,12 +135,12 @@ I treat AI as an engineering teammate, not a shortcut. Architecture, logic desig
 | 🧑‍💻 **Agentic coding** | Claude Code, Cursor and GitHub Copilot for scaffolding, refactoring, debugging and test generation |
 | 🔌 **LLM / AI API integration** | Connecting OpenAI, Claude and Gemini APIs into backend services and automation workflows |
 | 🔄 **Workflow automation** | n8n, Zoho Flow and Deluge scripting for end-to-end business process automation |
-| 🧠 **Python & Go** | Backend services, scripts and integration glue for AI-enabled features |
+| 🧠 **Python &amp; Go** | Backend services, scripts and integration glue for AI-enabled features |
 | ✅ **Quality gate** | Every AI-assisted change is reviewed, understood and owned before it is committed |
 
 ---
 
-## 🖥️ Servers & Infrastructure
+## 🖥️ Servers &amp; Infrastructure
 
 Writing the code is half the job. I like owning how it gets deployed and how it runs in production.
 
@@ -150,8 +150,8 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 | 🐳 **Containers** | Docker and Docker Compose, writing Dockerfiles with the infrastructure team for smooth deployments |
 | 🌐 **Web servers** | Nginx, cPanel / WHM |
 | ☁️ **Hosting** | DigitalOcean droplets and shared / VPS hosting |
-| 📨 **Queues & caching** | RabbitMQ, Apache Kafka, Redis |
-| 🔁 **CI/CD & releases** | Git workflows (GitHub, Bitbucket) and repeatable deployment processes |
+| 📨 **Queues &amp; caching** | RabbitMQ, Apache Kafka, Redis |
+| 🔁 **CI/CD &amp; releases** | Git workflows (GitHub, Bitbucket) and repeatable deployment processes |
 | 🔍 **Troubleshooting** | Log file analysis to find and fix live production issues |
 
 ---
@@ -170,7 +170,7 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 | [**POS Hisab365**](https://hisab365.com/) | Point of Sale management software | PHP, Laravel, jQuery, Ajax | **5+ organizations** |
 | [**Brickfield Management**](https://amarbrick.com/) | Brickfield management with mobile API | PHP, Laravel, Ajax | 1+ brickfield |
 | [**Vehicle Apps**](http://vehicleapps.comillalg.gov.bd/) | Vehicle, driver and fuel management with reports | PHP, Laravel, Ajax | 1+ organization |
-| [**Mayor App**](https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&hl=en&gl=US) | Mayor mobile application backend | Laravel Lumen (API) | 4+ clients |
+| [**Mayor App**](https://play.google.com/store/apps/details?id=bd.gov.fenipaurashava&amp;hl=en&amp;gl=US) | Mayor mobile application backend | Laravel Lumen (API) | 4+ clients |
 | **E-Commerce Platform** | Full-stack store with admin panel, orders, inventory and RBAC | Laravel 13 REST API, Next.js, MySQL | AI-assisted development |
 | **BnBMe: Zoho CRM** | CRM customization for a luxury rental brand (Dubai, Riyadh, London) | Zoho CRM, Deluge, Forms, Sign, Writer | End-to-end digital workflows |
 | [**Catalyst Connect**](https://catalystconnect.com/) | Web app with Zoho CRM API integration | Laravel, MySQL, Bootstrap | Zoho data sync |
@@ -196,12 +196,12 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farukcoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farukcoder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Farukcoder&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farukcoder&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Farukcoder&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Farukcoder&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Farukcoder&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Farukcoder&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7" alt="Trophies"/>
 
 </div>
 
@@ -209,8 +209,8 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science & Engineering**, Eastern University Bangladesh (2021 – 2025)
-- **Diploma in Engineering** (Data Telecommunication & Networking), Feni Computer Institute (2016 – 2019)
+- **B.Sc. in Computer Science &amp; Engineering**, Eastern University Bangladesh (2021 – 2025)
+- **Diploma in Engineering** (Data Telecommunication &amp; Networking), Feni Computer Institute (2016 – 2019)
 
 ---
 
@@ -230,6 +230,6 @@ Writing the code is half the job. I like owning how it gets deployed and how it 
 
 ### 💬 *Open to Senior Backend / Full Stack opportunities, Dhaka or Remote. Let's build something great together!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7C86,100:0D2137&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0E7C86,100:0D2137&amp;height=110&amp;section=footer" width="100%" alt="footer"/>
 
 </div>
